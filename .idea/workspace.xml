@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="578a6764-2510-49b5-be65-ed2ac9b4965a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hello.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aVPYHvDvIOLq1jX3o91OVx5VF9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="578a6764-2510-49b5-be65-ed2ac9b4965a" name="Default Changelist" comment="" />
+      <created>1586817833967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586817833967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="195" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586899979744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="195" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586899979744" />
+    <state x="518" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586898853336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="518" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586898853336" />
+    <state x="520" y="170" key="FileChooserDialogImpl" timestamp="1586818991088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586818991088" />
+    <state x="249" y="60" key="SettingsEditor" timestamp="1586900279317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586900279317" />
+    <state x="403" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586900253476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="403" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586900253476" />
+  </component>
+</project>

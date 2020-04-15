@@ -1,0 +1,12 @@
+h1
+{color: darkred;
+text-align:center;
+}
+div
+{
+  background-color: teal;
+  width: 200px;
+  height: 400px;
+  margin:20px;
+  padding: 20px
+}
